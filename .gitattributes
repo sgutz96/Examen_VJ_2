@@ -1,3 +1,4 @@
 *.dll filter=lfs diff=lfs merge=lfs -text
 *.dylib filter=lfs diff=lfs merge=lfs -text
 archivo_grande.zip filter=lfs diff=lfs merge=lfs -text
+archivo_grande.ext filter=lfs diff=lfs merge=lfs -text
